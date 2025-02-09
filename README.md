@@ -21,6 +21,8 @@ All commands are run from the root of the project, from a terminal:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d827eba-63ec-4cc3-8593-078e5901433e/deploy-status)](https://app.netlify.com/sites/darkens/deploys)
+
 ## Developing Locally
 
 | Prerequisites             |
